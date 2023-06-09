@@ -1,0 +1,23 @@
+# Template file for 'libnatpmp'
+pkgname=libnatpmp
+version=20230423
+revision=1
+#archs="i686 x86_64"
+#build_wrksrc=
+build_style=gnu-makefile
+#configure_args=""
+#make_build_args=""
+#make_install_args=""
+#conf_files=""
+#make_dirs="/var/log/dir 0755 root root"
+#hostmakedepends=""
+#makedepends=""
+#depends=""
+short_desc="shiggy diggy"
+maintainer="Dawid J. Kubis <dawid.kubis3@gmail.com>"
+license="BSD-3.0-or-later"
+homepage="http://miniupnp.free.fr/"
+#changelog=""
+distfiles="http://miniupnp.free.fr/files/libnatpmp-${version}.tar.gz"
+checksum=0684ed2c8406437e7519a1bd20ea83780db871b3a3a5d752311ba3e889dbfc70
+
